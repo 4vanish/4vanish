@@ -90,13 +90,13 @@
 
 ---
 
-## 🎤 Speaking
+## 🎤 Speaker
 
-| Year | Venue | Role |
-|------|-------|------|
-| **2026** | [Security BSides Mussoorie](https://bsidesmussoorie.com) · India 🏔️ | Upcoming Speaker |
-| **2025** | [DeepSec.net](https://deepsec.net) · Vienna, Austria 🇦🇹 | Speaker |
-| **2022** | Security BSides Ahmedabad · India 🇮🇳 | Panelist · Bug Bounties |
+| Year | Venue |
+|------|-------|
+| **2026** | [Security BSides Mussoorie](https://bsidesmussoorie.com) · India 🏔️ |
+| **2025** | [DeepSec.net Security Conference](https://deepsec.net) · Vienna, Austria 🇦🇹 |
+| **2022** | Security BSides Ahmedabad · India 🇮🇳 — *Bug Bounties panel* |
 
 ---
 
