@@ -33,35 +33,35 @@
 
 ## 🏆 Hall of Fame
 
-> Recognized by 70+ programs for responsibly disclosed vulnerabilities.
+> Acknowledged by 70+ programs for high-impact vulnerabilities uncovered across web, mobile, API, and cloud surfaces.
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=&color=5E5E5E&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" title="Microsoft" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=000000&style=for-the-badge&logo=apple&logoColor=white" alt="Apple" title="Apple" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=4285F4&style=for-the-badge&logo=google&logoColor=white" alt="Google" title="Google" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=0052CC&style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian" title="Atlassian" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=2D8CFF&style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom" title="Zoom" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=007DC1&style=for-the-badge&logo=okta&logoColor=white" alt="Okta" title="Okta" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=494649&style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" title="HackerOne" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=F26822&style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" title="Bugcrowd" />
+  <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
+  <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple" />
+  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+  <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian" />
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom" />
+  <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" alt="Okta" />
+  <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
+  <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=&color=00C4CC&style=for-the-badge&logo=canva&logoColor=white" alt="Canva" title="Canva" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=15C39A&style=for-the-badge&logo=grammarly&logoColor=white" alt="Grammarly" title="Grammarly" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=FFE01B&style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp" title="Mailchimp" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=2557A7&style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" title="Indeed" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=007DB8&style=for-the-badge&logo=dell&logoColor=white" alt="Dell" title="Dell" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=1CE783&style=for-the-badge&logo=hulu&logoColor=black" alt="Hulu" title="Hulu" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=005483&style=for-the-badge&logo=pandora&logoColor=white" alt="Pandora" title="Pandora" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=F45800&style=for-the-badge&logo=etsy&logoColor=white" alt="Etsy" title="Etsy" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Grammarly-15C39A?style=for-the-badge&logo=grammarly&logoColor=white" alt="Grammarly" />
+  <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp" />
+  <img src="https://img.shields.io/badge/Indeed-2557A7?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" />
+  <img src="https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dell" />
+  <img src="https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=black" alt="Hulu" />
+  <img src="https://img.shields.io/badge/Pandora-005483?style=for-the-badge&logo=pandora&logoColor=white" alt="Pandora" />
+  <img src="https://img.shields.io/badge/Etsy-F45800?style=for-the-badge&logo=etsy&logoColor=white" alt="Etsy" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=&color=FA005A&style=for-the-badge&logo=fandom&logoColor=white" alt="Fandom" title="Fandom" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=000000&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" title="CodePen" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=29B2FE&style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" title="Freelancer" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=E5226B&style=for-the-badge&logo=kiwicom&logoColor=white" alt="Kiwi.com" title="Kiwi.com" />
+  <img src="https://img.shields.io/badge/Fandom-FA005A?style=for-the-badge&logo=fandom&logoColor=white" alt="Fandom" />
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" />
+  <img src="https://img.shields.io/badge/Kiwi.com-E5226B?style=for-the-badge&logo=kiwicom&logoColor=white" alt="Kiwi.com" />
 </p>
 
 <p align="center"><sub><b>+ 50 more programs</b> · including Lemonade · Poshmark · McGraw Hill · Adaptavist · K15t · ROKT · Gallup · Centrify · Chargify · Constant Contact · Teramind · …</sub></p>
@@ -128,15 +128,26 @@ A practitioner's primer published on the **Cobalt** blog — covers tooling, sta
 
 ## 🧰 Arsenal
 
+> The tools I reach for on most engagements — proxy & fuzzing, mobile instrumentation, network recon, AI red-team frameworks, and the day-to-day scripting stack.
+
+**Offensive & AI red-team**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Caido-4B0082?style=flat-square" />
   <img src="https://img.shields.io/badge/Frida-792EE5?style=flat-square" />
   <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuclei-FF6F00?style=flat-square" />
   <img src="https://img.shields.io/badge/Garak-A41E22?style=flat-square" />
   <img src="https://img.shields.io/badge/PyRIT-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=python,bash,docker,linux,kali,aws,git&theme=dark" height="28" />
+  <img src="https://img.shields.io/badge/MCP%20Inspector-7C3AED?style=flat-square" />
+</p>
+
+**Languages & platforms**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,go,docker,linux,kali,aws,git,vscode&theme=dark" />
 </p>
 
 ---
@@ -147,6 +158,16 @@ A practitioner's primer published on the **Cobalt** blog — covers tooling, sta
 - 📝 *Understanding Insecure Deserialization* — **CPX** blog
 - 📝 *Exploiting OTP Features for Account Takeover* · [Medium](https://avanishpathak.medium.com)
 - 📝 *An Account Takeover via Response Manipulation* · [Medium](https://avanishpathak.medium.com)
+
+---
+
+## 🎮 Tic-Tac-Hack
+
+<p align="center">
+  <img src="./tictactoe.svg" alt="tic-tac-toe — X wins diagonally" />
+</p>
+
+<p align="center"><sub>Catch me at a CTF if you want a real game.</sub></p>
 
 ---
 

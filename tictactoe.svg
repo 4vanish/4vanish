@@ -1,0 +1,73 @@
+<svg width="360" height="220" viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular', 'Fira Code', Menlo, Consolas, monospace">
+  <!-- Background -->
+  <rect width="360" height="220" rx="10" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- Header -->
+  <text x="180" y="26" font-size="13" fill="#7ee787" font-weight="600" text-anchor="middle">▸ tic-tac-hack</text>
+  <text x="180" y="44" font-size="10" fill="#8b949e" text-anchor="middle">avanish@4vanish:~$ ./play.sh</text>
+
+  <!-- Board grid (centered around x=180, y=130) -->
+  <g transform="translate(120, 60)">
+    <!-- Vertical lines -->
+    <line x1="40"  y1="0"  x2="40"  y2="120" stroke="#30363d" stroke-width="2"/>
+    <line x1="80"  y1="0"  x2="80"  y2="120" stroke="#30363d" stroke-width="2"/>
+    <!-- Horizontal lines -->
+    <line x1="0"   y1="40" x2="120" y2="40"  stroke="#30363d" stroke-width="2"/>
+    <line x1="0"   y1="80" x2="120" y2="80"  stroke="#30363d" stroke-width="2"/>
+
+    <!-- Cell (0,0): X with stroke-dasharray reveal -->
+    <g stroke="#58a6ff" stroke-width="3" stroke-linecap="round" fill="none">
+      <line x1="8"  y1="8"  x2="32" y2="32" stroke-dasharray="34" stroke-dashoffset="34">
+        <animate attributeName="stroke-dashoffset" from="34" to="0" dur="0.4s" begin="0.2s" fill="freeze"/>
+      </line>
+      <line x1="32" y1="8"  x2="8"  y2="32" stroke-dasharray="34" stroke-dashoffset="34">
+        <animate attributeName="stroke-dashoffset" from="34" to="0" dur="0.4s" begin="0.4s" fill="freeze"/>
+      </line>
+    </g>
+
+    <!-- Cell (1,1): O -->
+    <circle cx="60" cy="60" r="14" fill="none" stroke="#f97583" stroke-width="3"
+            stroke-dasharray="88" stroke-dashoffset="88">
+      <animate attributeName="stroke-dashoffset" from="88" to="0" dur="0.5s" begin="0.7s" fill="freeze"/>
+    </circle>
+
+    <!-- Cell (0,2): X -->
+    <g stroke="#58a6ff" stroke-width="3" stroke-linecap="round" fill="none">
+      <line x1="88"  y1="8"  x2="112" y2="32" stroke-dasharray="34" stroke-dashoffset="34">
+        <animate attributeName="stroke-dashoffset" from="34" to="0" dur="0.4s" begin="1.0s" fill="freeze"/>
+      </line>
+      <line x1="112" y1="8"  x2="88"  y2="32" stroke-dasharray="34" stroke-dashoffset="34">
+        <animate attributeName="stroke-dashoffset" from="34" to="0" dur="0.4s" begin="1.2s" fill="freeze"/>
+      </line>
+    </g>
+
+    <!-- Cell (2,0): O -->
+    <circle cx="20" cy="100" r="14" fill="none" stroke="#f97583" stroke-width="3"
+            stroke-dasharray="88" stroke-dashoffset="88">
+      <animate attributeName="stroke-dashoffset" from="88" to="0" dur="0.5s" begin="1.5s" fill="freeze"/>
+    </circle>
+
+    <!-- Cell (2,2): X — winning move -->
+    <g stroke="#3fb950" stroke-width="3.5" stroke-linecap="round" fill="none">
+      <line x1="88"  y1="88"  x2="112" y2="112" stroke-dasharray="34" stroke-dashoffset="34">
+        <animate attributeName="stroke-dashoffset" from="34" to="0" dur="0.4s" begin="1.8s" fill="freeze"/>
+      </line>
+      <line x1="112" y1="88"  x2="88"  y2="112" stroke-dasharray="34" stroke-dashoffset="34">
+        <animate attributeName="stroke-dashoffset" from="34" to="0" dur="0.4s" begin="2.0s" fill="freeze"/>
+      </line>
+    </g>
+
+    <!-- Winning diagonal line -->
+    <line x1="8" y1="8" x2="112" y2="112" stroke="#3fb950" stroke-width="3" stroke-linecap="round" opacity="0"
+          stroke-dasharray="150" stroke-dashoffset="150">
+      <animate attributeName="opacity" from="0" to="0.8" dur="0.2s" begin="2.3s" fill="freeze"/>
+      <animate attributeName="stroke-dashoffset" from="150" to="0" dur="0.5s" begin="2.3s" fill="freeze"/>
+    </line>
+  </g>
+
+  <!-- Status -->
+  <text x="180" y="208" font-size="11" fill="#3fb950" text-anchor="middle" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.8s" fill="freeze"/>
+    [✓] X wins. avanish_score++
+  </text>
+</svg>
