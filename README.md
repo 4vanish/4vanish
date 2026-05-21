@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=700&color=58A6FF&center=true&vCenter=true&width=920&lines=Security+Researcher+%7C+Red+Team+%26+Penetration+Tester+%7C+Abu+Dhabi%2C+UAE+%F0%9F%87%A6%F0%9F%87%AA;Offensive+Security+%E2%80%A2+Web+%E2%80%A2+Mobile+%E2%80%A2+API+%E2%80%A2+OT+%E2%80%A2+Cloud+%E2%80%A2+AI%2FLLM;300%2B+Security+Assessments+%7C+1000%2B+Vulnerabilities+reported+%7C+70%2B+Hall+of+Fame" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=700&color=58A6FF&center=true&vCenter=true&width=920&lines=Security+Researcher+%7C+Red+Team+%26+Penetration+Tester+%7C+Abu+Dhabi%2C+UAE+%F0%9F%87%A6%F0%9F%87%AA;Offensive+Security+%E2%80%A2+Web+%E2%80%A2+Mobile+%E2%80%A2+API+%E2%80%A2+OT+%E2%80%A2+Cloud+%E2%80%A2+AI%2FLLM;300%2B+Security+Assessments+%7C+1000%2B+Vulnerabilities+reported+%7C+70%2B+Hall+of+Fame" alt="typing-svg" />
 </p>
 
 <p align="center">
@@ -36,35 +36,35 @@
 > Recognized by 70+ programs for responsibly disclosed vulnerabilities.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-Apple-000000?style=for-the-badge&logo=apple&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-Google-4285F4?style=for-the-badge&logo=google&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white&label=" />
+  <a href="#"><img src="https://cdn.simpleicons.org/microsoft/white" height="44" alt="Microsoft" title="Microsoft" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/apple/white" height="44" alt="Apple" title="Apple" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/google/white" height="44" alt="Google" title="Google" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/atlassian/white" height="44" alt="Atlassian" title="Atlassian" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/zoom/white" height="44" alt="Zoom" title="Zoom" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/okta/white" height="44" alt="Okta" title="Okta" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/hackerone/white" height="44" alt="HackerOne" title="HackerOne" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/bugcrowd/white" height="44" alt="Bugcrowd" title="Bugcrowd" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-Grammarly-15C39A?style=for-the-badge&logo=grammarly&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black&label=" />
-  <img src="https://img.shields.io/badge/-Indeed-2557A7?style=for-the-badge&logo=indeed&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=black&label=" />
-  <img src="https://img.shields.io/badge/-Pandora-005483?style=for-the-badge&logo=pandora&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-Etsy-F45800?style=for-the-badge&logo=etsy&logoColor=white&label=" />
+  <a href="#"><img src="https://cdn.simpleicons.org/canva/white" height="44" alt="Canva" title="Canva" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/grammarly/white" height="44" alt="Grammarly" title="Grammarly" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/mailchimp/white" height="44" alt="Mailchimp" title="Mailchimp" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/indeed/white" height="44" alt="Indeed" title="Indeed" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/dell/white" height="44" alt="Dell" title="Dell" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/hulu/white" height="44" alt="Hulu" title="Hulu" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/pandora/white" height="44" alt="Pandora" title="Pandora" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/etsy/white" height="44" alt="Etsy" title="Etsy" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Fandom-FA005A?style=for-the-badge&logo=fandom&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-Kiwi.com-E5226B?style=for-the-badge&logo=kiwicom&logoColor=white&label=" />
+  <a href="#"><img src="https://cdn.simpleicons.org/fandom/white" height="44" alt="Fandom" title="Fandom" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/codepen/white" height="44" alt="CodePen" title="CodePen" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/freelancer/white" height="44" alt="Freelancer" title="Freelancer" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/kiwicom/white" height="44" alt="Kiwi.com" title="Kiwi.com" /></a>
 </p>
 
-<p align="center"><b><sub>and 50+ more programs · including Lemonade, Poshmark, McGraw Hill, Adaptavist, K15t, ROKT, Gallup, Centrify, Chargify, Constant Contact, Teramind · …</sub></b></p>
+<p align="center"><sub><b>+ 50 more programs</b> · including Lemonade · Poshmark · McGraw Hill · Adaptavist · K15t · ROKT · Gallup · Centrify · Chargify · Constant Contact · Teramind · …</sub></p>
 
 ### CTFs & Battles
 
