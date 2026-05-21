@@ -4,18 +4,8 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,40:1a1a2e,75:16213e,100:0f3460&height=240&section=header&text=4vanish&fontSize=110&fontColor=58A6FF&fontAlignY=50&fontAlign=70&animation=fadeIn&desc=%3E%20Red%20Team%20Security%20Consultant&descSize=20&descAlignY=72&descAlign=70" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,75:16213e,100:0f3460&height=240&section=header&text=Avanish%20Pathak&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Security%20Consultant%20%E2%80%94%20Abu%20Dhabi%2C%20UAE&descSize=18&descAlignY=60&descAlign=50" alt="header" />
 </p>
-
-```ascii
-   █████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗
-  ██╔══██╗██║   ██║██╔══██╗████╗  ██║██║██╔════╝██║  ██║
-  ███████║██║   ██║███████║██╔██╗ ██║██║███████╗███████║
-  ██╔══██║╚██╗ ██╔╝██╔══██║██║╚██╗██║██║╚════██║██╔══██║
-  ██║  ██║ ╚████╔╝ ██║  ██║██║ ╚████║██║███████║██║  ██║
-  ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
-                          P A T H A K
-```
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avanishpathak1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
