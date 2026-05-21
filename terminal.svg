@@ -1,6 +1,6 @@
-<svg width="860" height="430" viewBox="0 0 860 430" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular', 'Fira Code', Menlo, Consolas, monospace">
+<svg width="860" height="440" viewBox="0 0 860 440" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular', 'Fira Code', Menlo, Consolas, monospace">
   <!-- Window chrome -->
-  <rect width="860" height="430" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect width="860" height="440" rx="10" fill="#0d1117" stroke="#30363d"/>
   <rect width="860" height="36" rx="10" fill="#161b22"/>
   <rect y="20" width="860" height="16" fill="#161b22"/>
 
@@ -10,129 +10,134 @@
   <circle cx="66" cy="18" r="6" fill="#27c93f"/>
 
   <!-- Tab title -->
-  <text x="430" y="22" font-size="13" fill="#8b949e" text-anchor="middle">avanish@4vanish: ~ — zsh</text>
+  <text x="430" y="22" font-size="13" fill="#8b949e" text-anchor="middle">~/recon — zsh — 110×30</text>
 
-  <!-- Live indicator (top right) -->
+  <!-- ONLINE pulse -->
   <g>
-    <circle cx="800" cy="18" r="4" fill="#3fb950">
+    <circle cx="794" cy="18" r="4" fill="#3fb950">
       <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
     </circle>
-    <text x="812" y="22" font-size="11" fill="#3fb950">ONLINE</text>
+    <text x="806" y="22" font-size="11" fill="#3fb950" font-weight="600">ACTIVE</text>
   </g>
 
-  <!-- Command 1 with typing effect -->
+  <!-- Command -->
   <g transform="translate(24, 66)">
-    <text font-size="13" fill="#58a6ff">$ </text>
-    <text x="14" font-size="13" fill="#c9d1d9">cat /etc/profile</text>
-    <text x="138" font-size="13" fill="#58a6ff">
-      <tspan>▌</tspan>
-      <animate attributeName="opacity" values="1;0" dur="1.05s" repeatCount="3" fill="freeze"/>
-    </text>
+    <text font-size="13" fill="#ffa657">$</text>
+    <text x="16" font-size="13" fill="#79c0ff">./recon</text>
+    <text x="78" font-size="13" fill="#c9d1d9">--target</text>
+    <text x="146" font-size="13" fill="#a5d6ff">avanish</text>
+    <text x="202" font-size="13" fill="#8b949e">--verbose</text>
   </g>
 
-  <!-- Profile rows (always visible, gentle slide-in entrance) -->
-  <g transform="translate(24, 92)">
-    <text font-size="13" fill="#7ee787" font-weight="600">NAME</text>
-    <text x="120" font-size="13" fill="#6e7681">→</text>
-    <text x="140" font-size="13" fill="#c9d1d9">Avanish Pathak</text>
-    <animateTransform attributeName="transform" type="translate" from="14 92" to="24 92" dur="0.4s" begin="0.10s" fill="freeze"/>
+  <text x="24" y="86" font-size="11" fill="#6e7681">[+] enumerating profile…</text>
+
+  <!-- Recon rows -->
+  <g transform="translate(24, 110)">
+    <text font-size="13" fill="#3fb950">[✓]</text>
+    <text x="38" font-size="13" fill="#8b949e">name</text>
+    <text x="156" font-size="13" fill="#6e7681">::</text>
+    <text x="178" font-size="13" fill="#c9d1d9">Avanish Pathak</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.10s" fill="freeze"/>
   </g>
 
-  <g transform="translate(24, 114)">
-    <text font-size="13" fill="#7ee787" font-weight="600">ROLE</text>
-    <text x="120" font-size="13" fill="#6e7681">→</text>
-    <text x="140" font-size="13" fill="#c9d1d9">Security Researcher · Red Team · Penetration Tester</text>
-    <animateTransform attributeName="transform" type="translate" from="14 114" to="24 114" dur="0.4s" begin="0.20s" fill="freeze"/>
+  <g transform="translate(24, 132)">
+    <text font-size="13" fill="#3fb950">[✓]</text>
+    <text x="38" font-size="13" fill="#8b949e">role</text>
+    <text x="156" font-size="13" fill="#6e7681">::</text>
+    <text x="178" font-size="13" fill="#c9d1d9">Security Researcher · Red Team · Penetration Tester</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.20s" fill="freeze"/>
   </g>
 
-  <g transform="translate(24, 136)">
-    <text font-size="13" fill="#7ee787" font-weight="600">LOCATION</text>
-    <text x="120" font-size="13" fill="#6e7681">→</text>
-    <text x="140" font-size="13" fill="#c9d1d9">Abu Dhabi, UAE 🇦🇪</text>
-    <animateTransform attributeName="transform" type="translate" from="14 136" to="24 136" dur="0.4s" begin="0.30s" fill="freeze"/>
+  <g transform="translate(24, 154)">
+    <text font-size="13" fill="#3fb950">[✓]</text>
+    <text x="38" font-size="13" fill="#8b949e">location</text>
+    <text x="156" font-size="13" fill="#6e7681">::</text>
+    <text x="178" font-size="13" fill="#c9d1d9">Abu Dhabi, UAE 🇦🇪</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.30s" fill="freeze"/>
   </g>
 
-  <g transform="translate(24, 158)">
-    <text font-size="13" fill="#7ee787" font-weight="600">DOMAINS</text>
-    <text x="120" font-size="13" fill="#6e7681">→</text>
-    <text x="140" font-size="13" fill="#c9d1d9">Web · Mobile · API · OT · Cloud (AWS) · AI/LLM</text>
-    <animateTransform attributeName="transform" type="translate" from="14 158" to="24 158" dur="0.4s" begin="0.40s" fill="freeze"/>
+  <g transform="translate(24, 176)">
+    <text font-size="13" fill="#3fb950">[✓]</text>
+    <text x="38" font-size="13" fill="#8b949e">domains</text>
+    <text x="156" font-size="13" fill="#6e7681">::</text>
+    <text x="178" font-size="13" fill="#c9d1d9">Web · Mobile · API · OT · Cloud (AWS) · AI/LLM</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.40s" fill="freeze"/>
   </g>
 
-  <g transform="translate(24, 180)">
-    <text font-size="13" fill="#7ee787" font-weight="600">DELIVERED</text>
-    <text x="120" font-size="13" fill="#6e7681">→</text>
-    <text x="140" font-size="13" fill="#c9d1d9">300+ assessments  ·  </text>
-    <text x="276" font-size="13" fill="#f97583" font-weight="600">1000+ vulnerabilities reported</text>
-    <animateTransform attributeName="transform" type="translate" from="14 180" to="24 180" dur="0.4s" begin="0.50s" fill="freeze"/>
+  <g transform="translate(24, 198)">
+    <text font-size="13" fill="#3fb950">[✓]</text>
+    <text x="38" font-size="13" fill="#8b949e">engagements</text>
+    <text x="156" font-size="13" fill="#6e7681">::</text>
+    <text x="178" font-size="13" fill="#c9d1d9">300+ security assessments delivered</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.50s" fill="freeze"/>
   </g>
 
-  <g transform="translate(24, 202)">
-    <text font-size="13" fill="#7ee787" font-weight="600">HoF</text>
-    <text x="120" font-size="13" fill="#6e7681">→</text>
-    <text x="140" font-size="13" fill="#c9d1d9">70+ programs — Microsoft · Apple · Google · Atlassian · Zoom · …</text>
-    <animateTransform attributeName="transform" type="translate" from="14 202" to="24 202" dur="0.4s" begin="0.60s" fill="freeze"/>
+  <g transform="translate(24, 220)">
+    <text font-size="13" fill="#3fb950">[✓]</text>
+    <text x="38" font-size="13" fill="#8b949e">vulnerabilities</text>
+    <text x="156" font-size="13" fill="#6e7681">::</text>
+    <text x="178" font-size="13" fill="#ffa657" font-weight="600">1000+</text>
+    <text x="220" font-size="13" fill="#c9d1d9">responsibly disclosed</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.60s" fill="freeze"/>
   </g>
 
-  <g transform="translate(24, 224)">
-    <text font-size="13" fill="#7ee787" font-weight="600">PLATFORMS</text>
-    <text x="120" font-size="13" fill="#6e7681">→</text>
-    <text x="140" font-size="13" fill="#c9d1d9">Bugcrowd (Top 250 · MVP '19 &amp; '20)  ·  Synack Red Team (Top 300)</text>
-    <animateTransform attributeName="transform" type="translate" from="14 224" to="24 224" dur="0.4s" begin="0.70s" fill="freeze"/>
+  <g transform="translate(24, 242)">
+    <text font-size="13" fill="#3fb950">[✓]</text>
+    <text x="38" font-size="13" fill="#8b949e">hall_of_fame</text>
+    <text x="156" font-size="13" fill="#6e7681">::</text>
+    <text x="178" font-size="13" fill="#c9d1d9">70+ programs (Microsoft · Apple · Google · Atlassian · …)</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.70s" fill="freeze"/>
   </g>
 
-  <g transform="translate(24, 246)">
-    <text font-size="13" fill="#7ee787" font-weight="600">TALKS</text>
-    <text x="120" font-size="13" fill="#6e7681">→</text>
-    <text x="140" font-size="13" fill="#c9d1d9">DeepSec Vienna 2025  ·  BSides Mussoorie 2026</text>
-    <animateTransform attributeName="transform" type="translate" from="14 246" to="24 246" dur="0.4s" begin="0.80s" fill="freeze"/>
+  <g transform="translate(24, 264)">
+    <text font-size="13" fill="#3fb950">[✓]</text>
+    <text x="38" font-size="13" fill="#8b949e">platforms</text>
+    <text x="156" font-size="13" fill="#6e7681">::</text>
+    <text x="178" font-size="13" fill="#c9d1d9">Bugcrowd (Top 250 · MVP '19 &amp; '20) · Synack (Top 300)</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.80s" fill="freeze"/>
   </g>
 
-  <g transform="translate(24, 268)">
-    <text font-size="13" fill="#7ee787" font-weight="600">BUILDING</text>
-    <text x="120" font-size="13" fill="#6e7681">→</text>
-    <text x="140" font-size="13" fill="#c9d1d9">AI Hacker's Handbook — the LLM pentester's reference</text>
-    <animateTransform attributeName="transform" type="translate" from="14 268" to="24 268" dur="0.4s" begin="0.90s" fill="freeze"/>
+  <g transform="translate(24, 286)">
+    <text font-size="13" fill="#3fb950">[✓]</text>
+    <text x="38" font-size="13" fill="#8b949e">talks</text>
+    <text x="156" font-size="13" fill="#6e7681">::</text>
+    <text x="178" font-size="13" fill="#c9d1d9">DeepSec Vienna 2025 · BSides Mussoorie 2026</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.90s" fill="freeze"/>
   </g>
 
-  <!-- Divider -->
-  <line x1="24" y1="296" x2="836" y2="296" stroke="#21262d" stroke-dasharray="2,4"/>
-
-  <!-- Uptime -->
-  <g transform="translate(24, 318)">
-    <text font-size="13" fill="#58a6ff">$ </text>
-    <text x="14" font-size="13" fill="#c9d1d9">uptime</text>
-    <text x="70" font-size="13" fill="#8b949e">— hacking since 2018</text>
+  <g transform="translate(24, 308)">
+    <text font-size="13" fill="#3fb950">[✓]</text>
+    <text x="38" font-size="13" fill="#8b949e">building</text>
+    <text x="156" font-size="13" fill="#6e7681">::</text>
+    <text x="178" font-size="13" fill="#c9d1d9">AI Hacker's Handbook — the LLM pentester's reference</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.00s" fill="freeze"/>
   </g>
 
-  <g transform="translate(24, 338)">
-    <text font-size="13" fill="#8b949e">  ⏱  7+ years offensive security  ·  300+ engagements  ·  1000+ disclosures</text>
+  <line x1="24" y1="334" x2="836" y2="334" stroke="#21262d" stroke-dasharray="2,4"/>
+
+  <!-- Summary -->
+  <g transform="translate(24, 356)">
+    <text font-size="13" fill="#79c0ff">[+]</text>
+    <text x="38" font-size="13" fill="#c9d1d9">recon complete</text>
+    <text x="178" font-size="13" fill="#8b949e">10/10 targets enumerated · 0 errors</text>
   </g>
 
   <!-- Progress bar -->
-  <g transform="translate(24, 364)">
-    <text font-size="13" fill="#58a6ff">$ </text>
-    <text x="14" font-size="13" fill="#c9d1d9">status</text>
-    <text x="74" font-size="13" fill="#8b949e">—  engagement-ready</text>
-  </g>
-
   <g transform="translate(24, 388)">
-    <rect width="700" height="10" rx="3" fill="#21262d"/>
-    <rect width="0" height="10" rx="3" fill="#3fb950">
-      <animate attributeName="width" from="0" to="630" dur="1.6s" begin="1.0s" fill="freeze"/>
+    <text font-size="13" fill="#ffa657">$</text>
+    <text x="16" font-size="13" fill="#c9d1d9">echo "engagement-ready"</text>
+    <rect x="280" y="-10" width="500" height="10" rx="3" fill="#21262d"/>
+    <rect x="280" y="-10" width="0" height="10" rx="3" fill="#3fb950">
+      <animate attributeName="width" from="0" to="500" dur="1.4s" begin="1.2s" fill="freeze"/>
     </rect>
-    <text x="734" y="9" font-size="13" fill="#3fb950" font-weight="600">
-      <tspan>0%</tspan>
-      <animate attributeName="opacity" from="1" to="0" dur="0.01s" begin="2.6s" fill="freeze"/>
-    </text>
-    <text x="734" y="9" font-size="13" fill="#3fb950" font-weight="600" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.6s" fill="freeze"/>
-      90%
-    </text>
+    <text x="790" y="0" font-size="13" fill="#3fb950" font-weight="600">100%</text>
   </g>
 
-  <!-- Blinking cursor -->
-  <text x="810" y="397" font-size="13" fill="#58a6ff">▌
-    <animate attributeName="opacity" values="1;0" dur="1.0s" repeatCount="indefinite"/>
-  </text>
+  <g transform="translate(24, 416)">
+    <text font-size="13" fill="#ffa657">$</text>
+    <text x="16" font-size="13" fill="#d2a8ff" font-style="italic">"Constantly learning, always hacking."</text>
+    <text x="316" font-size="13" fill="#58a6ff">▌
+      <animate attributeName="opacity" values="1;0" dur="1.0s" repeatCount="indefinite"/>
+    </text>
+  </g>
 </svg>

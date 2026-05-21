@@ -36,32 +36,32 @@
 > Recognized by 70+ programs for responsibly disclosed vulnerabilities.
 
 <p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/microsoft/white" height="44" alt="Microsoft" title="Microsoft" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/apple/white" height="44" alt="Apple" title="Apple" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/google/white" height="44" alt="Google" title="Google" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/atlassian/white" height="44" alt="Atlassian" title="Atlassian" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/zoom/white" height="44" alt="Zoom" title="Zoom" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/okta/white" height="44" alt="Okta" title="Okta" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/hackerone/white" height="44" alt="HackerOne" title="HackerOne" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/bugcrowd/white" height="44" alt="Bugcrowd" title="Bugcrowd" /></a>
+  <img src="https://img.shields.io/static/v1?label=&message=&color=5E5E5E&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" title="Microsoft" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=000000&style=for-the-badge&logo=apple&logoColor=white" alt="Apple" title="Apple" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=4285F4&style=for-the-badge&logo=google&logoColor=white" alt="Google" title="Google" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=0052CC&style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian" title="Atlassian" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=2D8CFF&style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom" title="Zoom" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=007DC1&style=for-the-badge&logo=okta&logoColor=white" alt="Okta" title="Okta" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=494649&style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" title="HackerOne" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=F26822&style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" title="Bugcrowd" />
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/canva/white" height="44" alt="Canva" title="Canva" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/grammarly/white" height="44" alt="Grammarly" title="Grammarly" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/mailchimp/white" height="44" alt="Mailchimp" title="Mailchimp" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/indeed/white" height="44" alt="Indeed" title="Indeed" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/dell/white" height="44" alt="Dell" title="Dell" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/hulu/white" height="44" alt="Hulu" title="Hulu" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/pandora/white" height="44" alt="Pandora" title="Pandora" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/etsy/white" height="44" alt="Etsy" title="Etsy" /></a>
+  <img src="https://img.shields.io/static/v1?label=&message=&color=00C4CC&style=for-the-badge&logo=canva&logoColor=white" alt="Canva" title="Canva" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=15C39A&style=for-the-badge&logo=grammarly&logoColor=white" alt="Grammarly" title="Grammarly" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=FFE01B&style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp" title="Mailchimp" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=2557A7&style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" title="Indeed" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=007DB8&style=for-the-badge&logo=dell&logoColor=white" alt="Dell" title="Dell" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=1CE783&style=for-the-badge&logo=hulu&logoColor=black" alt="Hulu" title="Hulu" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=005483&style=for-the-badge&logo=pandora&logoColor=white" alt="Pandora" title="Pandora" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=F45800&style=for-the-badge&logo=etsy&logoColor=white" alt="Etsy" title="Etsy" />
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/fandom/white" height="44" alt="Fandom" title="Fandom" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/codepen/white" height="44" alt="CodePen" title="CodePen" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/freelancer/white" height="44" alt="Freelancer" title="Freelancer" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/kiwicom/white" height="44" alt="Kiwi.com" title="Kiwi.com" /></a>
+  <img src="https://img.shields.io/static/v1?label=&message=&color=FA005A&style=for-the-badge&logo=fandom&logoColor=white" alt="Fandom" title="Fandom" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=000000&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" title="CodePen" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=29B2FE&style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" title="Freelancer" />
+  <img src="https://img.shields.io/static/v1?label=&message=&color=E5226B&style=for-the-badge&logo=kiwicom&logoColor=white" alt="Kiwi.com" title="Kiwi.com" />
 </p>
 
 <p align="center"><sub><b>+ 50 more programs</b> · including Lemonade · Poshmark · McGraw Hill · Adaptavist · K15t · ROKT · Gallup · Centrify · Chargify · Constant Contact · Teramind · …</sub></p>
