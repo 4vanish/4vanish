@@ -1,0 +1,102 @@
+<svg width="860" height="360" viewBox="0 0 860 360" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mono   { font-family: 'SFMono-Regular', 'Fira Code', Menlo, Consolas, monospace; font-size: 13px; }
+    .label  { fill: #7ee787; font-weight: 600; }
+    .arrow  { fill: #6e7681; }
+    .value  { fill: #c9d1d9; }
+    .prompt { fill: #58a6ff; }
+    .muted  { fill: #8b949e; }
+    .accent { fill: #f97583; }
+    .quote  { fill: #d2a8ff; font-style: italic; }
+    .row    { opacity: 0; }
+    .r1  { animation: fadeIn 0.4s 0.10s both; }
+    .r2  { animation: fadeIn 0.4s 0.20s both; }
+    .r3  { animation: fadeIn 0.4s 0.30s both; }
+    .r4  { animation: fadeIn 0.4s 0.40s both; }
+    .r5  { animation: fadeIn 0.4s 0.50s both; }
+    .r6  { animation: fadeIn 0.4s 0.60s both; }
+    .r7  { animation: fadeIn 0.4s 0.70s both; }
+    .r8  { animation: fadeIn 0.4s 0.80s both; }
+    .r9  { animation: fadeIn 0.4s 0.90s both; }
+    .r10 { animation: fadeIn 0.4s 1.00s both; }
+    .r11 { animation: fadeIn 0.4s 1.15s both; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: translateX(0); } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect width="860" height="360" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect width="860" height="36" rx="10" fill="#161b22"/>
+  <rect y="20" width="860" height="16" fill="#161b22"/>
+
+  <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="18" r="6" fill="#27c93f"/>
+
+  <text x="430" y="22" class="mono muted" text-anchor="middle">avanish@4vanish: ~ — zsh</text>
+
+  <g transform="translate(24, 64)">
+    <text class="mono prompt row r1">$ cat /etc/profile</text>
+  </g>
+
+  <g transform="translate(24, 92)" class="row r2">
+    <text class="mono label">NAME</text>
+    <text class="mono arrow" x="120">→</text>
+    <text class="mono value" x="140">Avanish Pathak</text>
+  </g>
+
+  <g transform="translate(24, 114)" class="row r3">
+    <text class="mono label">ROLE</text>
+    <text class="mono arrow" x="120">→</text>
+    <text class="mono value" x="140">Security Researcher · Red Team · Penetration Tester</text>
+  </g>
+
+  <g transform="translate(24, 136)" class="row r4">
+    <text class="mono label">LOCATION</text>
+    <text class="mono arrow" x="120">→</text>
+    <text class="mono value" x="140">Abu Dhabi, UAE 🇦🇪</text>
+  </g>
+
+  <g transform="translate(24, 158)" class="row r5">
+    <text class="mono label">DOMAINS</text>
+    <text class="mono arrow" x="120">→</text>
+    <text class="mono value" x="140">Web · Mobile · API · OT · Cloud (AWS) · AI/LLM</text>
+  </g>
+
+  <g transform="translate(24, 180)" class="row r6">
+    <text class="mono label">DELIVERED</text>
+    <text class="mono arrow" x="120">→</text>
+    <text class="mono value" x="140">300+ security assessments  ·  </text>
+    <text class="mono accent" x="372">1000+ vulnerabilities reported</text>
+  </g>
+
+  <g transform="translate(24, 202)" class="row r7">
+    <text class="mono label">HoF</text>
+    <text class="mono arrow" x="120">→</text>
+    <text class="mono value" x="140">70+ programs — Microsoft · Apple · Google · Atlassian · Zoom · Okta · …</text>
+  </g>
+
+  <g transform="translate(24, 224)" class="row r8">
+    <text class="mono label">PLATFORMS</text>
+    <text class="mono arrow" x="120">→</text>
+    <text class="mono value" x="140">Bugcrowd (Top 250 · MVP '19 &amp; '20)  ·  Synack Red Team (Top 300)</text>
+  </g>
+
+  <g transform="translate(24, 246)" class="row r9">
+    <text class="mono label">TALKS</text>
+    <text class="mono arrow" x="120">→</text>
+    <text class="mono value" x="140">DeepSec Vienna 2025  ·  BSides Mussoorie 2026</text>
+  </g>
+
+  <g transform="translate(24, 268)" class="row r10">
+    <text class="mono label">BUILDING</text>
+    <text class="mono arrow" x="120">→</text>
+    <text class="mono value" x="140">AI Hacker's Handbook — the LLM pentester's reference</text>
+  </g>
+
+  <g transform="translate(24, 310)" class="row r11">
+    <text class="mono prompt">$ </text>
+    <text class="mono quote" x="16">"Constantly learning, always hacking."</text>
+    <text class="mono prompt cursor" x="306">▌</text>
+  </g>
+</svg>
