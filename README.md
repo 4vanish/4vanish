@@ -246,3 +246,4 @@ A selection of write-ups on offensive security topics.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,75:1a1a2e,100:0d1117&height=100&section=footer" alt="footer" />
 </p>
+
