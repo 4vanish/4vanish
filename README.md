@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,75:16213e,100:0f3460&height=200&section=header&text=Avanish%20Pathak&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Security%20Researcher%20%E2%80%A2%20Red%20Team%20%E2%80%A2%20Penetration%20Tester&descSize=18&descAlignY=68&descAlign=50" alt="header" />
+  <img src="./hero.svg" alt="Avanish Pathak — Security Researcher" />
 </p>
 
 <p align="center">
@@ -43,18 +43,11 @@
 | **Synack Red Team** · Synack, Inc. · *Freelance* | Oct 2020 — Present | Remote |
 | **Security Researcher** · Bugcrowd · *Freelance* | Oct 2018 — Present | Remote |
 
-**Selected highlights**
-
-- **Cobalt · Lead Pentester** — 200+ pentests delivered; lead web / mobile / API / network engagements; triage and validate findings; own the final report.
-- **Bugcrowd · Security Researcher** — MVP 2019 & 2020 · P1 Warrior Level 3 · Top 250 globally · Sp0o0ktacular October Challenge Winner · 50+ Hall of Fame.
-- **Synack Red Team** — Top 300 globally · web / mobile / network pentests.
-- **CPX & Digital14** — realistic-attack scenarios, infrastructure + mobile + web pentests, final-report ownership.
-
 ---
 
 ## 🏆 Hall of Fame
 
-> Acknowledged by 70+ programs for high-impact vulnerabilities uncovered across web, mobile, API, and cloud surfaces.
+> Acknowledged by 70+ programs for high-impact vulnerabilities.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
