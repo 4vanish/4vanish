@@ -1,18 +1,15 @@
-<svg width="860" height="420" viewBox="0 0 860 420" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular', 'Fira Code', Menlo, Consolas, monospace">
-  <!-- Window -->
-  <rect width="860" height="420" rx="10" fill="#0d1117" stroke="#30363d"/>
+<svg width="860" height="460" viewBox="0 0 860 460" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular', 'Fira Code', Menlo, Consolas, monospace">
+  <!-- Window chrome -->
+  <rect width="860" height="460" rx="10" fill="#0d1117" stroke="#30363d"/>
   <rect width="860" height="36" rx="10" fill="#161b22"/>
   <rect y="20" width="860" height="16" fill="#161b22"/>
 
-  <!-- Traffic lights -->
   <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
   <circle cx="44" cy="18" r="6" fill="#ffbd2e"/>
   <circle cx="66" cy="18" r="6" fill="#27c93f"/>
 
-  <!-- Tab title -->
   <text x="430" y="22" font-size="13" fill="#8b949e" text-anchor="middle">avanish@4vanish: ~/profile</text>
 
-  <!-- ONLINE -->
   <g>
     <circle cx="794" cy="18" r="4" fill="#3fb950">
       <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
@@ -20,108 +17,122 @@
     <text x="806" y="22" font-size="11" fill="#3fb950" font-weight="600">ACTIVE</text>
   </g>
 
-  <!-- Command line -->
+  <!-- Prompt -->
   <g transform="translate(24, 64)">
     <text font-size="13" fill="#ffa657">avanish</text>
     <text x="56" font-size="13" fill="#8b949e">@</text>
     <text x="68" font-size="13" fill="#79c0ff">4vanish</text>
     <text x="128" font-size="13" fill="#8b949e">~</text>
     <text x="140" font-size="13" fill="#3fb950">$</text>
-    <text x="156" font-size="13" fill="#c9d1d9">cat profile.json | jq</text>
+    <text x="156" font-size="13" fill="#c9d1d9">cat profile.json</text>
   </g>
 
-  <!-- IDENTITY CARD (left top) -->
-  <g transform="translate(24, 90)">
-    <rect width="400" height="138" rx="8" fill="#161b22" stroke="#30363d"/>
+  <!-- IDENTITY CARD -->
+  <g transform="translate(24, 92)">
+    <rect width="812" height="100" rx="8" fill="#161b22" stroke="#30363d"/>
     <text x="14" y="22" font-size="11" fill="#7ee787" font-weight="600">▸ IDENTITY</text>
-    <line x1="14" y1="30" x2="386" y2="30" stroke="#21262d"/>
+    <line x1="14" y1="30" x2="798" y2="30" stroke="#21262d"/>
 
-    <text x="14" y="56" font-size="12" fill="#8b949e">name</text>
-    <text x="120" y="56" font-size="12" fill="#c9d1d9">Avanish Pathak</text>
+    <text x="14" y="54" font-size="12" fill="#8b949e">name</text>
+    <text x="110" y="54" font-size="12" fill="#c9d1d9">Avanish Pathak</text>
 
-    <text x="14" y="78" font-size="12" fill="#8b949e">role</text>
-    <text x="120" y="78" font-size="12" fill="#c9d1d9">Security Researcher</text>
+    <text x="14" y="74" font-size="12" fill="#8b949e">role</text>
+    <text x="110" y="74" font-size="12" fill="#c9d1d9">Security Researcher · Red Team · Penetration Tester</text>
 
-    <text x="14" y="96" font-size="12" fill="#8b949e"></text>
-    <text x="120" y="96" font-size="12" fill="#c9d1d9">Red Team · Penetration Tester</text>
+    <text x="14" y="92" font-size="12" fill="#8b949e">located</text>
+    <text x="110" y="92" font-size="12" fill="#c9d1d9">Abu Dhabi, UAE 🇦🇪</text>
 
-    <text x="14" y="118" font-size="12" fill="#8b949e">based</text>
-    <text x="120" y="118" font-size="12" fill="#c9d1d9">Abu Dhabi, UAE 🇦🇪</text>
+    <!-- right side stats -->
+    <text x="480" y="54" font-size="12" fill="#8b949e">engagements</text>
+    <text x="620" y="54" font-size="14" fill="#79c0ff" font-weight="700">300+</text>
+
+    <text x="480" y="74" font-size="12" fill="#8b949e">vulnerabilities</text>
+    <text x="620" y="74" font-size="14" fill="#ffa657" font-weight="700">1000+ reported</text>
+
+    <text x="480" y="92" font-size="12" fill="#8b949e">hall of fame</text>
+    <text x="620" y="92" font-size="14" fill="#d2a8ff" font-weight="700">70+ programs</text>
   </g>
 
-  <!-- BATTLE STATS CARD (right top) -->
-  <g transform="translate(436, 90)">
-    <rect width="400" height="138" rx="8" fill="#161b22" stroke="#30363d"/>
-    <text x="14" y="22" font-size="11" fill="#7ee787" font-weight="600">▸ BATTLE STATS</text>
-    <line x1="14" y1="30" x2="386" y2="30" stroke="#21262d"/>
-
-    <text x="14" y="58" font-size="12" fill="#8b949e">engagements</text>
-    <text x="200" y="58" font-size="18" fill="#79c0ff" font-weight="700">300+</text>
-
-    <text x="14" y="86" font-size="12" fill="#8b949e">disclosures</text>
-    <text x="200" y="86" font-size="18" fill="#ffa657" font-weight="700">1000+</text>
-
-    <text x="14" y="114" font-size="12" fill="#8b949e">hall of fame</text>
-    <text x="200" y="114" font-size="18" fill="#d2a8ff" font-weight="700">70+ programs</text>
-  </g>
-
-  <!-- DOMAINS CARD (left bottom) -->
-  <g transform="translate(24, 240)">
-    <rect width="400" height="120" rx="8" fill="#161b22" stroke="#30363d"/>
+  <!-- DOMAINS -->
+  <g transform="translate(24, 204)">
+    <rect width="812" height="60" rx="8" fill="#161b22" stroke="#30363d"/>
     <text x="14" y="22" font-size="11" fill="#7ee787" font-weight="600">▸ DOMAINS</text>
-    <line x1="14" y1="30" x2="386" y2="30" stroke="#21262d"/>
+    <line x1="14" y1="30" x2="798" y2="30" stroke="#21262d"/>
 
-    <!-- Domain pills -->
-    <g transform="translate(14, 48)">
-      <rect width="50" height="22" rx="11" fill="#1f6feb33" stroke="#1f6feb"/>
-      <text x="25" y="15" font-size="11" fill="#79c0ff" text-anchor="middle">Web</text>
+    <g transform="translate(14, 38)">
+      <rect width="50" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="25" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">Web</text>
     </g>
-    <g transform="translate(72, 48)">
-      <rect width="62" height="22" rx="11" fill="#1f6feb33" stroke="#1f6feb"/>
-      <text x="31" y="15" font-size="11" fill="#79c0ff" text-anchor="middle">Mobile</text>
+    <g transform="translate(72, 38)">
+      <rect width="60" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="30" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">Mobile</text>
     </g>
-    <g transform="translate(142, 48)">
-      <rect width="46" height="22" rx="11" fill="#1f6feb33" stroke="#1f6feb"/>
-      <text x="23" y="15" font-size="11" fill="#79c0ff" text-anchor="middle">API</text>
+    <g transform="translate(140, 38)">
+      <rect width="42" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="21" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">API</text>
     </g>
-    <g transform="translate(196, 48)">
-      <rect width="42" height="22" rx="11" fill="#1f6feb33" stroke="#1f6feb"/>
-      <text x="21" y="15" font-size="11" fill="#79c0ff" text-anchor="middle">OT</text>
+    <g transform="translate(190, 38)">
+      <rect width="40" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="20" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">OT</text>
     </g>
-    <g transform="translate(246, 48)">
-      <rect width="78" height="22" rx="11" fill="#1f6feb33" stroke="#1f6feb"/>
-      <text x="39" y="15" font-size="11" fill="#79c0ff" text-anchor="middle">Cloud · AWS</text>
+    <g transform="translate(238, 38)">
+      <rect width="56" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="28" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">Network</text>
     </g>
-    <g transform="translate(332, 48)">
-      <rect width="56" height="22" rx="11" fill="#bf5af233" stroke="#bf5af2"/>
-      <text x="28" y="15" font-size="11" fill="#d2a8ff" text-anchor="middle">AI/LLM</text>
+    <g transform="translate(302, 38)">
+      <rect width="80" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="40" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">Cloud · AWS</text>
     </g>
-
-    <!-- Building -->
-    <text x="14" y="92" font-size="12" fill="#8b949e">building</text>
-    <text x="80" y="92" font-size="12" fill="#c9d1d9">AI Hacker's Handbook · LLM pentester's reference</text>
+    <g transform="translate(390, 38)">
+      <rect width="60" height="18" rx="9" fill="#bf5af233" stroke="#bf5af2"/>
+      <text x="30" y="12" font-size="10" fill="#d2a8ff" text-anchor="middle">AI / LLM</text>
+    </g>
   </g>
 
-  <!-- PLATFORMS CARD (right bottom) -->
-  <g transform="translate(436, 240)">
-    <rect width="400" height="120" rx="8" fill="#161b22" stroke="#30363d"/>
-    <text x="14" y="22" font-size="11" fill="#7ee787" font-weight="600">▸ PLATFORMS &amp; TALKS</text>
-    <line x1="14" y1="30" x2="386" y2="30" stroke="#21262d"/>
+  <!-- SKILLS CARD -->
+  <g transform="translate(24, 276)">
+    <rect width="812" height="160" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="14" y="22" font-size="11" fill="#7ee787" font-weight="600">▸ SKILLS</text>
+    <line x1="14" y1="30" x2="798" y2="30" stroke="#21262d"/>
 
-    <text x="14" y="56" font-size="12" fill="#f0883e" font-weight="600">⬡</text>
-    <text x="30" y="56" font-size="12" fill="#c9d1d9">Bugcrowd</text>
-    <text x="120" y="56" font-size="11" fill="#8b949e">Top 250 · MVP '19 &amp; '20</text>
+    <!-- 6 per row, ~130px each -->
+    <g font-size="11" fill="#c9d1d9">
+      <text x="14"  y="52">AI / LLM</text>
+      <text x="144" y="52">AI Security</text>
+      <text x="274" y="52">Android pentesting</text>
+      <text x="430" y="52">API Security</text>
+      <text x="560" y="52">AWS Security</text>
+      <text x="690" y="52">Bug Bounty</text>
 
-    <text x="14" y="76" font-size="12" fill="#a371f7" font-weight="600">◆</text>
-    <text x="30" y="76" font-size="12" fill="#c9d1d9">Synack Red Team</text>
-    <text x="160" y="76" font-size="11" fill="#8b949e">Top 300 globally</text>
+      <text x="14"  y="72">Cloud Config Review</text>
+      <text x="144" y="72" x2="Code">     </text>
+      <text x="144" y="72">Code Review</text>
+      <text x="274" y="72">Desktop</text>
+      <text x="430" y="72">External Network</text>
+      <text x="560" y="72">Internal Network</text>
+      <text x="690" y="72">PCI Segmentation</text>
 
-    <text x="14" y="98" font-size="12" fill="#3fb950" font-weight="600">▸</text>
-    <text x="30" y="98" font-size="12" fill="#c9d1d9">DeepSec Vienna 2025 · BSides Mussoorie 2026</text>
+      <text x="14"  y="92">iOS pentesting</text>
+      <text x="144" y="92">IoT</text>
+      <text x="274" y="92">Linux</text>
+      <text x="430" y="92">Network Security</text>
+      <text x="560" y="92">Offensive Security</text>
+      <text x="690" y="92">Red Teaming</text>
+
+      <text x="14"  y="112">Secure Code Review</text>
+      <text x="144" y="112">Security Hardening</text>
+      <text x="274" y="112">Thick Client</text>
+      <text x="430" y="112">Threat Modeling</text>
+      <text x="560" y="112">Vulnerability Assess.</text>
+      <text x="690" y="112">Vuln. Research</text>
+
+      <text x="14"  y="132">Web Application Sec</text>
+      <text x="144" y="132">Windows</text>
+    </g>
   </g>
 
-  <!-- Footer prompt -->
-  <g transform="translate(24, 388)">
+  <!-- Footer -->
+  <g transform="translate(24, 448)">
     <text font-size="13" fill="#3fb950">$</text>
     <text x="16" font-size="13" fill="#d2a8ff" font-style="italic">"Constantly learning, always hacking."</text>
     <text x="316" font-size="13" fill="#58a6ff">▌
