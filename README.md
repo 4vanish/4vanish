@@ -33,22 +33,22 @@
 
 ## 💼 Experience
 
-| | Role | Company | Period | Location |
-|---|------|---------|--------|----------|
-| 🏢 | **Information Security** | **Aldar** · Full-time | Jun 2024 — Present | Abu Dhabi, UAE |
-| 🛡 | **Lead Pentester** | **Cobalt** · Freelance | May 2021 — Present | Remote (US) |
-| 🛡 | Core Pentester | Cobalt · Freelance | Nov 2020 — Jun 2021 | Remote (US) |
-| 🎯 | **Synack Red Team** | Synack, Inc. · Freelance | Oct 2020 — Present | Remote |
-| 🐛 | **Security Researcher** | Bugcrowd · Freelance | Oct 2018 — Present | Remote |
-| 🛡 | **Security Consultant** | **CPX** · Full-time | Jan 2023 — Mar 2024 | Abu Dhabi, UAE |
-| 🛡 | **Red Team Security Consultant** | **Digital14** · Full-time | Mar 2022 — Feb 2023 | Abu Dhabi, UAE |
+| Role · Company | Period | Location |
+|----------------|--------|----------|
+| **Information Security** · Aldar · *Full-time* | Jun 2024 — Present | Abu Dhabi, UAE |
+| **Security Consultant** · CPX · *Full-time* | Jan 2023 — Mar 2024 | Abu Dhabi, UAE |
+| **Red Team Security Consultant** · Digital14 · *Full-time* | Mar 2022 — Feb 2023 | Abu Dhabi, UAE |
+| **Lead Pentester** · Cobalt · *Freelance* | May 2021 — Present | Remote (US) |
+| Core Pentester · Cobalt · *Freelance* | Nov 2020 — Jun 2021 | Remote (US) |
+| **Synack Red Team** · Synack, Inc. · *Freelance* | Oct 2020 — Present | Remote |
+| **Security Researcher** · Bugcrowd · *Freelance* | Oct 2018 — Present | Remote |
 
 **Selected highlights**
 
-- **Cobalt — Lead Pentester** · 200+ pentests delivered; lead web / mobile / API / network engagements; triage and validate findings; own the final report.
-- **Bugcrowd — Security Researcher** · Bugcrowd MVP 2019 & 2020 · P1 Warrior Level 3 · Top 250 globally · Sp0o0ktacular October Challenge Winner · 50+ Hall of Fame.
-- **Synack Red Team** · Top 300 globally · web / mobile / network pentests.
-- **CPX & Digital14** · realistic-attack scenarios, infrastructure + mobile + web pentests, final-report ownership.
+- **Cobalt · Lead Pentester** — 200+ pentests delivered; lead web / mobile / API / network engagements; triage and validate findings; own the final report.
+- **Bugcrowd · Security Researcher** — MVP 2019 & 2020 · P1 Warrior Level 3 · Top 250 globally · Sp0o0ktacular October Challenge Winner · 50+ Hall of Fame.
+- **Synack Red Team** — Top 300 globally · web / mobile / network pentests.
+- **CPX & Digital14** — realistic-attack scenarios, infrastructure + mobile + web pentests, final-report ownership.
 
 ---
 
@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/Kiwi.com-E5226B?style=for-the-badge&logo=kiwicom&logoColor=white" alt="Kiwi.com" />
 </p>
 
-<p align="center"><b>＋ 50 more programs</b><br/><sub>including Lemonade · Poshmark · McGraw Hill · Adaptavist · K15t · ROKT · Gallup · Centrify · Chargify · Constant Contact · Teramind · …</sub></p>
+<p align="center"><b>＋ 50 more programs</b></p>
 
 ### CTFs & Battles
 
@@ -110,7 +110,7 @@
 | 2023 | **Certified Mobile Security Engineer** (CMSE) | 8kSec |
 | 2023 | **Certified Android Security Engineer** (CASE) | 8kSec |
 | 2023 | **eJPT — Junior Penetration Tester** | INE Security |
-| —    | **Practical Web Application Security and Testing** | TCM Security |
+| 2021 | **Practical Web Application Security and Testing** | TCM Security |
 | 2020 | **Advanced Web Hacking** | MDSec |
 
 ---
@@ -119,51 +119,10 @@
 
 | Year | Venue |
 |------|-------|
-| **2026** | [Security BSides Mussoorie](https://bsidesmussoorie.com) · India 🏔️ |
-| **2025** | [DeepSec.net Security Conference](https://deepsec.net) · Vienna, Austria 🇦🇹 |
-| **—**    | **Hack & Secure** — Speaker |
-| **2022** | Security BSides Ahmedabad · India 🇮🇳 — *Bug Bounties panel* |
-| **2019** | **AIMS Institutes — Connect 2019** · *Information Technology and Bug Bounties* |
-
----
-
-## 🛠 Skills
-
-<details open>
-<summary><b>AI / LLM Security</b></summary>
-
-`AI / LLM` · `AI Security`
-</details>
-
-<details open>
-<summary><b>Application Security</b></summary>
-
-`Web Application Security` · `API Security` · `Android pentesting` · `iOS pentesting` · `Thick Client` · `Desktop` · `Code Review` · `Secure Code Review`
-</details>
-
-<details open>
-<summary><b>Infrastructure &amp; Network</b></summary>
-
-`Internal Network` · `External Network` · `Internal Network + PCI Segmentation` · `Network PCI Segmentation` · `Network Security` · `Linux` · `Windows` · `Security Hardening`
-</details>
-
-<details open>
-<summary><b>Cloud</b></summary>
-
-`AWS Security` · `Cloud Configuration Review`
-</details>
-
-<details open>
-<summary><b>Offensive &amp; Research</b></summary>
-
-`Offensive Security` · `Red Teaming` · `Bug Bounty` · `Vulnerability Assessment` · `Vulnerability Research` · `Threat Modeling`
-</details>
-
-<details open>
-<summary><b>IoT</b></summary>
-
-`IoT`
-</details>
+| **2026** | [Security BSides Mussoorie](https://bsidesmussoorie.com) — Mussoorie, India 🏔️ |
+| **2025** | [DeepSec.net Security Conference](https://deepsec.net) — Vienna, Austria 🇦🇹 |
+| **2022** | BSides Ahmedabad — Ahmedabad, India 🇮🇳 |
+| **2019** | Connect — Hack & Secure — Bangalore, India 🇮🇳 |
 
 ---
 

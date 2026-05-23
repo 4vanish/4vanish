@@ -1,6 +1,6 @@
-<svg width="860" height="460" viewBox="0 0 860 460" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular', 'Fira Code', Menlo, Consolas, monospace">
+<svg width="860" height="540" viewBox="0 0 860 540" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular', 'Fira Code', Menlo, Consolas, monospace">
   <!-- Window chrome -->
-  <rect width="860" height="460" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect width="860" height="540" rx="10" fill="#0d1117" stroke="#30363d"/>
   <rect width="860" height="36" rx="10" fill="#161b22"/>
   <rect y="20" width="860" height="16" fill="#161b22"/>
 
@@ -18,7 +18,7 @@
   </g>
 
   <!-- Prompt -->
-  <g transform="translate(24, 64)">
+  <g transform="translate(24, 66)">
     <text font-size="13" fill="#ffa657">avanish</text>
     <text x="56" font-size="13" fill="#8b949e">@</text>
     <text x="68" font-size="13" fill="#79c0ff">4vanish</text>
@@ -27,112 +27,179 @@
     <text x="156" font-size="13" fill="#c9d1d9">cat profile.json</text>
   </g>
 
-  <!-- IDENTITY CARD -->
+  <!-- IDENTITY (slim, no stats) -->
   <g transform="translate(24, 92)">
-    <rect width="812" height="100" rx="8" fill="#161b22" stroke="#30363d"/>
+    <rect width="812" height="92" rx="8" fill="#161b22" stroke="#30363d"/>
     <text x="14" y="22" font-size="11" fill="#7ee787" font-weight="600">▸ IDENTITY</text>
     <line x1="14" y1="30" x2="798" y2="30" stroke="#21262d"/>
 
-    <text x="14" y="54" font-size="12" fill="#8b949e">name</text>
-    <text x="110" y="54" font-size="12" fill="#c9d1d9">Avanish Pathak</text>
+    <text x="14" y="52" font-size="12" fill="#8b949e">name</text>
+    <text x="110" y="52" font-size="12" fill="#c9d1d9">Avanish Pathak</text>
 
-    <text x="14" y="74" font-size="12" fill="#8b949e">role</text>
-    <text x="110" y="74" font-size="12" fill="#c9d1d9">Security Researcher · Red Team · Penetration Tester</text>
+    <text x="14" y="70" font-size="12" fill="#8b949e">role</text>
+    <text x="110" y="70" font-size="12" fill="#c9d1d9">Security Researcher · Red Team · Penetration Tester</text>
 
-    <text x="14" y="92" font-size="12" fill="#8b949e">located</text>
-    <text x="110" y="92" font-size="12" fill="#c9d1d9">Abu Dhabi, UAE 🇦🇪</text>
-
-    <!-- right side stats -->
-    <text x="480" y="54" font-size="12" fill="#8b949e">engagements</text>
-    <text x="620" y="54" font-size="14" fill="#79c0ff" font-weight="700">300+</text>
-
-    <text x="480" y="74" font-size="12" fill="#8b949e">vulnerabilities</text>
-    <text x="620" y="74" font-size="14" fill="#ffa657" font-weight="700">1000+ reported</text>
-
-    <text x="480" y="92" font-size="12" fill="#8b949e">hall of fame</text>
-    <text x="620" y="92" font-size="14" fill="#d2a8ff" font-weight="700">70+ programs</text>
+    <text x="14" y="88" font-size="12" fill="#8b949e">located</text>
+    <text x="110" y="88" font-size="12" fill="#c9d1d9">Abu Dhabi, UAE 🇦🇪</text>
   </g>
 
   <!-- DOMAINS -->
-  <g transform="translate(24, 204)">
-    <rect width="812" height="60" rx="8" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(24, 200)">
+    <rect width="812" height="64" rx="8" fill="#161b22" stroke="#30363d"/>
     <text x="14" y="22" font-size="11" fill="#7ee787" font-weight="600">▸ DOMAINS</text>
     <line x1="14" y1="30" x2="798" y2="30" stroke="#21262d"/>
 
-    <g transform="translate(14, 38)">
-      <rect width="50" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
-      <text x="25" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">Web</text>
-    </g>
-    <g transform="translate(72, 38)">
-      <rect width="60" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
-      <text x="30" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">Mobile</text>
-    </g>
-    <g transform="translate(140, 38)">
-      <rect width="42" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
-      <text x="21" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">API</text>
-    </g>
-    <g transform="translate(190, 38)">
-      <rect width="40" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
-      <text x="20" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">OT</text>
-    </g>
-    <g transform="translate(238, 38)">
+    <g transform="translate(14, 40)">
       <rect width="56" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
-      <text x="28" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">Network</text>
+      <text x="28" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">Web</text>
     </g>
-    <g transform="translate(302, 38)">
-      <rect width="80" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
-      <text x="40" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">Cloud · AWS</text>
+    <g transform="translate(78, 40)">
+      <rect width="64" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="32" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">Mobile</text>
     </g>
-    <g transform="translate(390, 38)">
-      <rect width="60" height="18" rx="9" fill="#bf5af233" stroke="#bf5af2"/>
-      <text x="30" y="12" font-size="10" fill="#d2a8ff" text-anchor="middle">AI / LLM</text>
+    <g transform="translate(150, 40)">
+      <rect width="48" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="24" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">API</text>
+    </g>
+    <g transform="translate(206, 40)">
+      <rect width="44" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="22" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">OT</text>
+    </g>
+    <g transform="translate(258, 40)">
+      <rect width="74" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="37" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">Network</text>
+    </g>
+    <g transform="translate(340, 40)">
+      <rect width="92" height="18" rx="9" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="46" y="12" font-size="10" fill="#79c0ff" text-anchor="middle">Cloud · AWS</text>
+    </g>
+    <g transform="translate(440, 40)">
+      <rect width="68" height="18" rx="9" fill="#bf5af233" stroke="#bf5af2"/>
+      <text x="34" y="12" font-size="10" fill="#d2a8ff" text-anchor="middle">AI / LLM</text>
     </g>
   </g>
 
-  <!-- SKILLS CARD -->
-  <g transform="translate(24, 276)">
-    <rect width="812" height="160" rx="8" fill="#161b22" stroke="#30363d"/>
+  <!-- SKILLS — pill badges, multiple rows, same style as domains -->
+  <g transform="translate(24, 284)">
+    <rect width="812" height="200" rx="8" fill="#161b22" stroke="#30363d"/>
     <text x="14" y="22" font-size="11" fill="#7ee787" font-weight="600">▸ SKILLS</text>
     <line x1="14" y1="30" x2="798" y2="30" stroke="#21262d"/>
 
-    <!-- 6 per row, ~130px each -->
-    <g font-size="11" fill="#c9d1d9">
-      <text x="14"  y="52">AI / LLM</text>
-      <text x="144" y="52">AI Security</text>
-      <text x="274" y="52">Android pentesting</text>
-      <text x="430" y="52">API Security</text>
-      <text x="560" y="52">AWS Security</text>
-      <text x="690" y="52">Bug Bounty</text>
+    <!-- Row 1 (y=44) -->
+    <g transform="translate(14, 44)">
+      <rect width="72" height="20" rx="10" fill="#bf5af233" stroke="#bf5af2"/>
+      <text x="36" y="13" font-size="10" fill="#d2a8ff" text-anchor="middle">AI / LLM</text>
+    </g>
+    <g transform="translate(94, 44)">
+      <rect width="86" height="20" rx="10" fill="#bf5af233" stroke="#bf5af2"/>
+      <text x="43" y="13" font-size="10" fill="#d2a8ff" text-anchor="middle">AI Security</text>
+    </g>
+    <g transform="translate(188, 44)">
+      <rect width="134" height="20" rx="10" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="67" y="13" font-size="10" fill="#79c0ff" text-anchor="middle">Android pentesting</text>
+    </g>
+    <g transform="translate(330, 44)">
+      <rect width="88" height="20" rx="10" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="44" y="13" font-size="10" fill="#79c0ff" text-anchor="middle">API Security</text>
+    </g>
+    <g transform="translate(426, 44)">
+      <rect width="98" height="20" rx="10" fill="#3fb95033" stroke="#3fb950"/>
+      <text x="49" y="13" font-size="10" fill="#7ee787" text-anchor="middle">AWS Security</text>
+    </g>
+    <g transform="translate(532, 44)">
+      <rect width="80" height="20" rx="10" fill="#f0883e33" stroke="#f0883e"/>
+      <text x="40" y="13" font-size="10" fill="#ffa657" text-anchor="middle">Bug Bounty</text>
+    </g>
+    <g transform="translate(620, 44)">
+      <rect width="140" height="20" rx="10" fill="#3fb95033" stroke="#3fb950"/>
+      <text x="70" y="13" font-size="10" fill="#7ee787" text-anchor="middle">Cloud Config Review</text>
+    </g>
 
-      <text x="14"  y="72">Cloud Config Review</text>
-      <text x="144" y="72" x2="Code">     </text>
-      <text x="144" y="72">Code Review</text>
-      <text x="274" y="72">Desktop</text>
-      <text x="430" y="72">External Network</text>
-      <text x="560" y="72">Internal Network</text>
-      <text x="690" y="72">PCI Segmentation</text>
+    <!-- Row 2 (y=72) -->
+    <g transform="translate(14, 72)">
+      <rect width="84" height="20" rx="10" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="42" y="13" font-size="10" fill="#79c0ff" text-anchor="middle">Code Review</text>
+    </g>
+    <g transform="translate(106, 72)">
+      <rect width="62" height="20" rx="10" fill="#8b949e33" stroke="#8b949e"/>
+      <text x="31" y="13" font-size="10" fill="#c9d1d9" text-anchor="middle">Desktop</text>
+    </g>
+    <g transform="translate(176, 72)">
+      <rect width="112" height="20" rx="10" fill="#8b949e33" stroke="#8b949e"/>
+      <text x="56" y="13" font-size="10" fill="#c9d1d9" text-anchor="middle">External Network</text>
+    </g>
+    <g transform="translate(296, 72)">
+      <rect width="110" height="20" rx="10" fill="#8b949e33" stroke="#8b949e"/>
+      <text x="55" y="13" font-size="10" fill="#c9d1d9" text-anchor="middle">Internal Network</text>
+    </g>
+    <g transform="translate(414, 72)">
+      <rect width="118" height="20" rx="10" fill="#8b949e33" stroke="#8b949e"/>
+      <text x="59" y="13" font-size="10" fill="#c9d1d9" text-anchor="middle">PCI Segmentation</text>
+    </g>
+    <g transform="translate(540, 72)">
+      <rect width="100" height="20" rx="10" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="50" y="13" font-size="10" fill="#79c0ff" text-anchor="middle">iOS pentesting</text>
+    </g>
+    <g transform="translate(648, 72)">
+      <rect width="40" height="20" rx="10" fill="#8b949e33" stroke="#8b949e"/>
+      <text x="20" y="13" font-size="10" fill="#c9d1d9" text-anchor="middle">IoT</text>
+    </g>
+    <g transform="translate(696, 72)">
+      <rect width="52" height="20" rx="10" fill="#8b949e33" stroke="#8b949e"/>
+      <text x="26" y="13" font-size="10" fill="#c9d1d9" text-anchor="middle">Linux</text>
+    </g>
 
-      <text x="14"  y="92">iOS pentesting</text>
-      <text x="144" y="92">IoT</text>
-      <text x="274" y="92">Linux</text>
-      <text x="430" y="92">Network Security</text>
-      <text x="560" y="92">Offensive Security</text>
-      <text x="690" y="92">Red Teaming</text>
+    <!-- Row 3 (y=100) -->
+    <g transform="translate(14, 100)">
+      <rect width="114" height="20" rx="10" fill="#8b949e33" stroke="#8b949e"/>
+      <text x="57" y="13" font-size="10" fill="#c9d1d9" text-anchor="middle">Network Security</text>
+    </g>
+    <g transform="translate(136, 100)">
+      <rect width="116" height="20" rx="10" fill="#f0883e33" stroke="#f0883e"/>
+      <text x="58" y="13" font-size="10" fill="#ffa657" text-anchor="middle">Offensive Security</text>
+    </g>
+    <g transform="translate(260, 100)">
+      <rect width="92" height="20" rx="10" fill="#f0883e33" stroke="#f0883e"/>
+      <text x="46" y="13" font-size="10" fill="#ffa657" text-anchor="middle">Red Teaming</text>
+    </g>
+    <g transform="translate(360, 100)">
+      <rect width="126" height="20" rx="10" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="63" y="13" font-size="10" fill="#79c0ff" text-anchor="middle">Secure Code Review</text>
+    </g>
+    <g transform="translate(494, 100)">
+      <rect width="122" height="20" rx="10" fill="#8b949e33" stroke="#8b949e"/>
+      <text x="61" y="13" font-size="10" fill="#c9d1d9" text-anchor="middle">Security Hardening</text>
+    </g>
+    <g transform="translate(624, 100)">
+      <rect width="80" height="20" rx="10" fill="#8b949e33" stroke="#8b949e"/>
+      <text x="40" y="13" font-size="10" fill="#c9d1d9" text-anchor="middle">Thick Client</text>
+    </g>
+    <g transform="translate(712, 100)">
+      <rect width="106" height="20" rx="10" fill="#f0883e33" stroke="#f0883e"/>
+      <text x="53" y="13" font-size="10" fill="#ffa657" text-anchor="middle">Threat Modeling</text>
+    </g>
 
-      <text x="14"  y="112">Secure Code Review</text>
-      <text x="144" y="112">Security Hardening</text>
-      <text x="274" y="112">Thick Client</text>
-      <text x="430" y="112">Threat Modeling</text>
-      <text x="560" y="112">Vulnerability Assess.</text>
-      <text x="690" y="112">Vuln. Research</text>
-
-      <text x="14"  y="132">Web Application Sec</text>
-      <text x="144" y="132">Windows</text>
+    <!-- Row 4 (y=128) -->
+    <g transform="translate(14, 128)">
+      <rect width="148" height="20" rx="10" fill="#f0883e33" stroke="#f0883e"/>
+      <text x="74" y="13" font-size="10" fill="#ffa657" text-anchor="middle">Vulnerability Assessment</text>
+    </g>
+    <g transform="translate(170, 128)">
+      <rect width="130" height="20" rx="10" fill="#f0883e33" stroke="#f0883e"/>
+      <text x="65" y="13" font-size="10" fill="#ffa657" text-anchor="middle">Vulnerability Research</text>
+    </g>
+    <g transform="translate(308, 128)">
+      <rect width="156" height="20" rx="10" fill="#1f6feb33" stroke="#1f6feb"/>
+      <text x="78" y="13" font-size="10" fill="#79c0ff" text-anchor="middle">Web Application Security</text>
+    </g>
+    <g transform="translate(472, 128)">
+      <rect width="64" height="20" rx="10" fill="#8b949e33" stroke="#8b949e"/>
+      <text x="32" y="13" font-size="10" fill="#c9d1d9" text-anchor="middle">Windows</text>
     </g>
   </g>
 
-  <!-- Footer -->
-  <g transform="translate(24, 448)">
+  <!-- Footer with breathing room -->
+  <g transform="translate(24, 510)">
     <text font-size="13" fill="#3fb950">$</text>
     <text x="16" font-size="13" fill="#d2a8ff" font-style="italic">"Constantly learning, always hacking."</text>
     <text x="316" font-size="13" fill="#58a6ff">▌
