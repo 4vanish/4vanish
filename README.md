@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4vanish&label=Profile%20views&color=58a6ff&style=for-the-badge" />
   <a href="https://www.linkedin.com/in/avanishpathak1/"><img src="https://img.shields.io/badge/LinkedIn-2.7K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/avanish46"><img src="https://img.shields.io/twitter/follow/avanish46?style=for-the-badge&logo=x&logoColor=white&label=X&color=000000" /></a>
+  <a href="https://twitter.com/avanish46"><img src="https://img.shields.io/badge/X-6.7K-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---
@@ -38,8 +38,8 @@
 | **Information Security** · Aldar · *Full-time* | Jun 2024 — Present | Abu Dhabi, UAE |
 | **Security Consultant** · CPX · *Full-time* | Jan 2023 — Mar 2024 | Abu Dhabi, UAE |
 | **Red Team Security Consultant** · Digital14 · *Full-time* | Mar 2022 — Feb 2023 | Abu Dhabi, UAE |
-| **Lead Pentester** · Cobalt · *Freelance* | May 2021 — Present | Remote (US) |
-| Core Pentester · Cobalt · *Freelance* | Nov 2020 — Jun 2021 | Remote (US) |
+| **Lead Pentester** · Cobalt · *Freelance* | May 2021 — Present | Remote |
+| Core Pentester · Cobalt · *Freelance* | Nov 2020 — Jun 2021 | Remote |
 | **Synack Red Team** · Synack, Inc. · *Freelance* | Oct 2020 — Present | Remote |
 | **Security Researcher** · Bugcrowd · *Freelance* | Oct 2018 — Present | Remote |
 
@@ -57,7 +57,6 @@
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom" />
   <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" alt="Okta" />
   <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
-  <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
 </p>
 
 <p align="center">
@@ -76,6 +75,7 @@
   <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" />
   <img src="https://img.shields.io/badge/Kiwi.com-E5226B?style=for-the-badge&logo=kiwicom&logoColor=white" alt="Kiwi.com" />
+  <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
 </p>
 
 <p align="center"><b>＋ 50 more programs</b></p>
