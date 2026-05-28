@@ -77,21 +77,18 @@
 
     <text x="232" font-size="12" fill="#6e7681">|</text>
 
-    <text x="252" font-size="12" fill="#7ee787">▸</text>
-    <text x="268" font-size="12" fill="#8b949e">stats</text>
+    <text x="252" font-size="12" fill="#79c0ff" font-weight="700">300+</text>
+    <text x="290" font-size="12" fill="#c9d1d9">Assessments</text>
 
-    <text x="310" font-size="12" fill="#79c0ff" font-weight="700">300+</text>
-    <text x="348" font-size="12" fill="#c9d1d9">Security Assessments</text>
+    <text x="378" font-size="12" fill="#6e7681">·</text>
 
-    <text x="494" font-size="12" fill="#6e7681">·</text>
+    <text x="394" font-size="12" fill="#ffa657" font-weight="700">1000+</text>
+    <text x="436" font-size="12" fill="#c9d1d9">Vulnerabilities reported</text>
 
-    <text x="510" font-size="12" fill="#ffa657" font-weight="700">1000+</text>
-    <text x="552" font-size="12" fill="#c9d1d9">Vulnerabilities</text>
+    <text x="606" font-size="12" fill="#6e7681">·</text>
 
-    <text x="654" font-size="12" fill="#6e7681">·</text>
-
-    <text x="670" font-size="12" fill="#d2a8ff" font-weight="700">70+</text>
-    <text x="700" font-size="12" fill="#c9d1d9">Hall of Fame</text>
+    <text x="622" font-size="12" fill="#d2a8ff" font-weight="700">70+</text>
+    <text x="652" font-size="12" fill="#c9d1d9">Hall of Fame</text>
   </g>
 
   <!-- Bottom bracket corners -->

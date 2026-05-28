@@ -33,15 +33,15 @@
 
 ## 💼 Experience
 
-| Role · Company | Period | Location |
-|----------------|--------|----------|
-| **Information Security** · Aldar · *Full-time* | Jun 2024 — Present | Abu Dhabi, UAE |
-| **Security Consultant** · CPX · *Full-time* | Jan 2023 — Mar 2024 | Abu Dhabi, UAE |
-| **Red Team Security Consultant** · Digital14 · *Full-time* | Mar 2022 — Feb 2023 | Abu Dhabi, UAE |
-| **Lead Pentester** · Cobalt · *Freelance* | May 2021 — Present | Remote |
-| Core Pentester · Cobalt · *Freelance* | Nov 2020 — Jun 2021 | Remote |
-| **Synack Red Team** · Synack, Inc. · *Freelance* | Oct 2020 — Present | Remote |
-| **Security Researcher** · Bugcrowd · *Freelance* | Oct 2018 — Present | Remote |
+| Role | Company | Period | Location |
+|------|---------|--------|----------|
+| **Information Security** | Aldar · *Full-time* | Jun 2024 — Present | Abu Dhabi, UAE |
+| **Security Consultant** | CPX · *Full-time* | Jan 2023 — Mar 2024 | Abu Dhabi, UAE |
+| **Red Team Security Consultant** | Digital14 · *Full-time* | Mar 2022 — Feb 2023 | Abu Dhabi, UAE |
+| **Lead Pentester** | Cobalt · *Freelance* | May 2021 — Present | Remote |
+| Core Pentester | Cobalt · *Freelance* | Nov 2020 — Jun 2021 | Remote |
+| **Synack Red Team** | Synack, Inc. · *Freelance* | Oct 2020 — Present | Remote |
+| **Security Researcher** | Bugcrowd · *Freelance* | Oct 2018 — Present | Remote |
 
 ---
 
