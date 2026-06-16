@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="./hero.svg" alt="Avanish Pathak — Security Researcher" />
+  <img src="https://raw.githubusercontent.com/4vanish/4vanish/main/hero.svg?v=14" alt="Avanish Pathak — Security Researcher" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="./terminal.svg" alt="avanish profile" />
+  <img src="https://raw.githubusercontent.com/4vanish/4vanish/main/terminal.svg?v=14" alt="avanish profile" />
 </p>
 
 <p align="center">

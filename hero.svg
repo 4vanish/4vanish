@@ -69,26 +69,26 @@
     <text x="302" font-size="14" fill="#c9d1d9">Penetration Tester</text>
   </g>
 
-  <!-- Footer line: location + stats badges (with breathing room) -->
+  <!-- Footer line: location + stats badges (respaced — no overlap) -->
   <g transform="translate(64, 200)">
     <text font-size="12" fill="#7ee787">▸</text>
     <text x="16" font-size="12" fill="#8b949e">based</text>
     <text x="58" font-size="12" fill="#c9d1d9">Abu Dhabi, UAE 🇦🇪</text>
 
-    <text x="232" font-size="12" fill="#6e7681">|</text>
+    <text x="210" font-size="12" fill="#6e7681">|</text>
 
-    <text x="252" font-size="12" fill="#79c0ff" font-weight="700">300+</text>
-    <text x="290" font-size="12" fill="#c9d1d9">Security Assessments</text>
+    <text x="228" font-size="12" fill="#79c0ff" font-weight="700">300+</text>
+    <text x="270" font-size="12" fill="#c9d1d9">Security Assessments</text>
 
-    <text x="378" font-size="12" fill="#6e7681">·</text>
+    <text x="428" font-size="12" fill="#6e7681">·</text>
 
-    <text x="394" font-size="12" fill="#ffa657" font-weight="700">1500+</text>
-    <text x="436" font-size="12" fill="#c9d1d9">Vulnerabilities reported</text>
+    <text x="444" font-size="12" fill="#ffa657" font-weight="700">1500+</text>
+    <text x="496" font-size="12" fill="#c9d1d9">Vulnerabilities reported</text>
 
-    <text x="606" font-size="12" fill="#6e7681">·</text>
+    <text x="684" font-size="12" fill="#6e7681">·</text>
 
-    <text x="622" font-size="12" fill="#d2a8ff" font-weight="700">70+</text>
-    <text x="652" font-size="12" fill="#c9d1d9">Hall of Fame</text>
+    <text x="700" font-size="12" fill="#d2a8ff" font-weight="700">70+</text>
+    <text x="736" font-size="12" fill="#c9d1d9">Hall of Fame</text>
   </g>
 
   <!-- Bottom bracket corners -->
